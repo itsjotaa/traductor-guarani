@@ -1,0 +1,15 @@
+README.md
+setup.py
+tests/test_diccionario.py
+tests/test_reglas.py
+tests/test_traductor.py
+traductor_guarani.egg-info/PKG-INFO
+traductor_guarani.egg-info/SOURCES.txt
+traductor_guarani.egg-info/dependency_links.txt
+traductor_guarani.egg-info/requires.txt
+traductor_guarani.egg-info/top_level.txt
+translator/__init__.py
+translator/diccionario.py
+translator/reglas.py
+translator/traductor.py
+translator/utils.py

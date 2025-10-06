@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: traductor-guarani
+Version: 0.1.0
+Summary: Traductor de español a guaraní con API web
+Author: jota
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: flask>=3.1.2
+Requires-Dist: requests>=2.32.5
+Dynamic: author
+Dynamic: description-content-type
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
